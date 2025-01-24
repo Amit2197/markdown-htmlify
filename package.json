@@ -1,6 +1,6 @@
 {
   "name": "markdown-htmlify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A versatile Node.js package for converting Markdown to HTML. Fetch Markdown content from a URL, local file, or text string, and render it into HTML.",
   "main": "dist/index.js",
   "scripts": {
